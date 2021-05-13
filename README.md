@@ -143,6 +143,13 @@ Profile
 ### Log In 
 <img src="http://g.recordit.co/W2dPn8FiFa.gif" width=600><br>
 
+### Implement Stream View + Details View OnClick 
+<img src="http://g.recordit.co/1b4kRJhTr8.gif" width=600><br>
+
+### Implement Tabular View (Apps/Profile/Settings) + Set Budget
+<img src="http://g.recordit.co/CR0SB8iycj.gif" width=600><br>
+
+
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
