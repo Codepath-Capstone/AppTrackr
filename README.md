@@ -150,6 +150,12 @@ Profile
 <img src="http://g.recordit.co/CR0SB8iycj.gif" width=600><br>
 
 
+### Display Proper App Icons + Display Reviews/Cost of each App 
+<img src = "http://g.recordit.co/ihFZ8XzSH3.gif" width = 600><br>
+
+### Display Username stored + budget of each user stored in backend + updated budget 
+<img src = "http://g.recordit.co/ihFZ8XzSH3.gif" width = 600><br>
+
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
