@@ -154,7 +154,7 @@ Profile
 <img src = "http://g.recordit.co/ihFZ8XzSH3.gif" width = 600><br>
 
 ### Display Username stored + budget of each user stored in backend + updated budget 
-<img src = "https://recordit.co/SjxDiaXvCq" width = 600><br>
+<img src = "http://g.recordit.co/SjxDiaXvCq.gif" width = 600><br>
 
 ### [BONUS] Digital Wireframes & Mockups
 
