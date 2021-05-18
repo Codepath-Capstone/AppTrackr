@@ -156,9 +156,10 @@ Profile
 ### Display Username stored + budget of each user stored in backend + updated budget 
 <img src = "http://g.recordit.co/SjxDiaXvCq.gif" width = 600><br>
 
-### [BONUS] Digital Wireframes & Mockups
 
-### [BONUS] Interactive Prototype
+### Final Version of App with Updated (Adding app functionality for each user) 
+<img src = "http://g.recordit.co/qqZBsWO5lK.gif" width = 600><br>
+
 
 ## Schema 
 [This section will be completed in Unit 9]
